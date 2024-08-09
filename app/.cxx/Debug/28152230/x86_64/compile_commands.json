@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/storage/emulated/0/AndroidIDEProjects/BashTerminal/app/.cxx/Debug/28152230/x86_64",
+  "command": "/data/data/com.itsaky.androidide/files/home/android-sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-aarch64/bin/clang --target=x86_64-none-linux-android24 --sysroot=/data/data/com.itsaky.androidide/files/home/android-sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-aarch64/sysroot -Dterminal_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles/terminal.dir/terminal.c.o -c /storage/emulated/0/AndroidIDEProjects/BashTerminal/app/src/main/c/terminal.c",
+  "file": "/storage/emulated/0/AndroidIDEProjects/BashTerminal/app/src/main/c/terminal.c"
+}
+]

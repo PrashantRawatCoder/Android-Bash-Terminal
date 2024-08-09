@@ -1,0 +1,3 @@
+/storage/emulated/0/AndroidIDEProjects/BashTerminal/app/.cxx/Debug/28152230/arm64-v8a/CMakeFiles/terminal.dir
+/storage/emulated/0/AndroidIDEProjects/BashTerminal/app/.cxx/Debug/28152230/arm64-v8a/CMakeFiles/edit_cache.dir
+/storage/emulated/0/AndroidIDEProjects/BashTerminal/app/.cxx/Debug/28152230/arm64-v8a/CMakeFiles/rebuild_cache.dir

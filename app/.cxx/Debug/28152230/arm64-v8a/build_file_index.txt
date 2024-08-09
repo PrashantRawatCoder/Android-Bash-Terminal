@@ -1,0 +1,1 @@
+/storage/emulated/0/AndroidIDEProjects/BashTerminal/app/src/main/c/CMakeLists.txt
