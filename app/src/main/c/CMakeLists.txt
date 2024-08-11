@@ -9,6 +9,5 @@ add_library(terminal SHARED
 target_link_libraries(
     terminal
     android
-    log
     )
              

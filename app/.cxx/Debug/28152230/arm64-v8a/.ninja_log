@@ -1,3 +1,4 @@
 # ninja log v5
-6	551	1723202788019586077	CMakeFiles/terminal.dir/terminal.c.o	931ef9dec7bcd2e7
-554	792	1723202788249586076	/storage/emulated/0/AndroidIDEProjects/Android-Bash-Terminal/app/build/intermediates/cxx/Debug/28152230/obj/arm64-v8a/libterminal.so	2849c802afa4abec
+6	540	1723364528444040567	CMakeFiles/terminal.dir/terminal.c.o	931ef9dec7bcd2e7
+543	782	1723364528684040567	/storage/emulated/0/AndroidIDEProjects/Android-Bash-Terminal/app/build/intermediates/cxx/Debug/28152230/obj/arm64-v8a/libterminal.so	b9e90f643b9ca1d9
+51	1061	1723365612794040154	/storage/emulated/0/AndroidIDEProjects/Android-Bash-Terminal/app/build/intermediates/cxx/Debug/28152230/obj/arm64-v8a/libterminal.so	b9e90f643b9ca1d9

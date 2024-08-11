@@ -19,6 +19,9 @@ android {
         vectorDrawables { 
             useSupportLibrary true
         }
+        lintOptions {
+            disable 'ExpiredTargetSdkVersion'
+        }
     }
 
     buildTypes {
