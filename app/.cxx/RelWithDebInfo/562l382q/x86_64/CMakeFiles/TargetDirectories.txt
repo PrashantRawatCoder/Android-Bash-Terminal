@@ -1,0 +1,3 @@
+/storage/emulated/0/AndroidIDEProjects/Android-Bash-Terminal/app/.cxx/RelWithDebInfo/562l382q/x86_64/CMakeFiles/terminal.dir
+/storage/emulated/0/AndroidIDEProjects/Android-Bash-Terminal/app/.cxx/RelWithDebInfo/562l382q/x86_64/CMakeFiles/edit_cache.dir
+/storage/emulated/0/AndroidIDEProjects/Android-Bash-Terminal/app/.cxx/RelWithDebInfo/562l382q/x86_64/CMakeFiles/rebuild_cache.dir

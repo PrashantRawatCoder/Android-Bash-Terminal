@@ -1,1 +1,1 @@
-/storage/emulated/0/AndroidIDEProjects/BashTerminal/app/build/intermediates/cxx/Debug/28152230/obj/x86_64
+/storage/emulated/0/AndroidIDEProjects/Android-Bash-Terminal/app/build/intermediates/cxx/Debug/28152230/obj/x86_64

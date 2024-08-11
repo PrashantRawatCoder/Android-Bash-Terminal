@@ -1,0 +1,50 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Android-Bash-Terminal/app/src/main/res/layout/activity_main.xml",
+      "selection": {
+        "end": {
+          "column": 42,
+          "index": 1426,
+          "line": 39
+        },
+        "start": {
+          "column": 42,
+          "index": 1426,
+          "line": 39
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Android-Bash-Terminal/app/src/main/java/com/prashantrawatcoder/bashterminal/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 51,
+          "index": 3608,
+          "line": 87
+        },
+        "start": {
+          "column": 51,
+          "index": 3608,
+          "line": 87
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Android-Bash-Terminal/app/src/main/java/com/prashantrawatcoder/bashterminal/TerminalSession.java",
+      "selection": {
+        "end": {
+          "column": 30,
+          "index": 1007,
+          "line": 35
+        },
+        "start": {
+          "column": 30,
+          "index": 1007,
+          "line": 35
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Android-Bash-Terminal/app/src/main/java/com/prashantrawatcoder/bashterminal/TerminalSession.java"
+}

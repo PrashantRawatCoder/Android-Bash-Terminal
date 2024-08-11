@@ -11,7 +11,8 @@
     <ScrollView
          android:layout_height="wrap_content"
          android:layout_width="match_parent"
-         android:layout_weight="19">
+         android:layout_weight="19"
+         android:id="@+id/scrollview">
 
         <TextView
              android:layout_height="wrap_content"
@@ -20,11 +21,8 @@
              app:layout_constraintStart_toStartOf="parent"
              app:layout_constraintEnd_toEndOf="parent"
              app:layout_constraintBottom_toBottomOf="parent"
-             android:id="@+id/screenText"
-           android:textIsSelectable="true"
-            android:focusable="true"
-            android:focusableInTouchMode="true" 
-            />
+             android:textIsSelectable="true"
+             android:id="@+id/screenText" />
 
     </ScrollView>
 
@@ -34,18 +32,12 @@
          android:orientation="horizontal">
 
         <EditText
-             android:layout_height="wrap_content"
-             android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_width="0dp"
             android:layout_weight="1"
-            android:id="@+id/command"
-            android:singleLine="true"
-            />
-
-        <Button
-             android:layout_height="wrap_content"
-             android:layout_width="wrap_content"
-           android:text="Run"
-            android:onClick="command"  
+            android:id="@+id/command" 
+            android:inputType="textNoSuggestions|text"
+            android:imeOptions="actionNext"
             />
 
     </LinearLayout>

@@ -1,11 +1,3 @@
 # ninja log v5
-5	337	1723141051094317657	CMakeFiles/terminal.dir/terminal.c.o	aa5f3d4c40657272
-339	574	1723141051324317657	/storage/emulated/0/AndroidIDEProjects/BashTerminal/app/build/intermediates/cxx/Debug/28152230/obj/armeabi-v7a/libterminal.so	3c22d02fbdead2d1
-13	302	1723141141734317622	CMakeFiles/terminal.dir/terminal.c.o	aa5f3d4c40657272
-302	538	1723141141954317622	/storage/emulated/0/AndroidIDEProjects/BashTerminal/app/build/intermediates/cxx/Debug/28152230/obj/armeabi-v7a/libterminal.so	3c22d02fbdead2d1
-16	296	1723141767944317383	CMakeFiles/terminal.dir/terminal.c.o	aa5f3d4c40657272
-297	599	1723141768234317383	/storage/emulated/0/AndroidIDEProjects/BashTerminal/app/build/intermediates/cxx/Debug/28152230/obj/armeabi-v7a/libterminal.so	3c22d02fbdead2d1
-12	410	1723168679229900836	CMakeFiles/terminal.dir/terminal.c.o	aa5f3d4c40657272
-410	664	1723168679479900836	/storage/emulated/0/AndroidIDEProjects/BashTerminal/app/build/intermediates/cxx/Debug/28152230/obj/armeabi-v7a/libterminal.so	3c22d02fbdead2d1
-18	321	1723191373444710829	CMakeFiles/terminal.dir/terminal.c.o	aa5f3d4c40657272
-322	550	1723191373664710829	/storage/emulated/0/AndroidIDEProjects/BashTerminal/app/build/intermediates/cxx/Debug/28152230/obj/armeabi-v7a/libterminal.so	3c22d02fbdead2d1
+4	336	1723202791049586075	CMakeFiles/terminal.dir/terminal.c.o	ee8fe9f4f5f892ae
+340	628	1723202791309586075	/storage/emulated/0/AndroidIDEProjects/Android-Bash-Terminal/app/build/intermediates/cxx/Debug/28152230/obj/armeabi-v7a/libterminal.so	18673016c02e7b93

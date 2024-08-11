@@ -1,0 +1,18 @@
+                        -H/storage/emulated/0/AndroidIDEProjects/Android-Bash-Terminal/app/src/main/c
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=24
+-DANDROID_PLATFORM=android-24
+-DANDROID_ABI=x86
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DANDROID_NDK=/data/data/com.itsaky.androidide/files/home/android-sdk/ndk/26.1.10909125
+-DCMAKE_ANDROID_NDK=/data/data/com.itsaky.androidide/files/home/android-sdk/ndk/26.1.10909125
+-DCMAKE_TOOLCHAIN_FILE=/data/data/com.itsaky.androidide/files/home/android-sdk/ndk/26.1.10909125/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/data/data/com.itsaky.androidide/files/home/android-sdk/cmake/3.22.1/bin/ninja
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/storage/emulated/0/AndroidIDEProjects/Android-Bash-Terminal/app/build/intermediates/cxx/RelWithDebInfo/562l382q/obj/x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/storage/emulated/0/AndroidIDEProjects/Android-Bash-Terminal/app/build/intermediates/cxx/RelWithDebInfo/562l382q/obj/x86
+-DCMAKE_BUILD_TYPE=RelWithDebInfo
+-B/storage/emulated/0/AndroidIDEProjects/Android-Bash-Terminal/app/.cxx/RelWithDebInfo/562l382q/x86
+-GNinja
+                        Build command args: []
+                        Version: 2

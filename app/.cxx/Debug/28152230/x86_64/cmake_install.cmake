@@ -1,4 +1,4 @@
-# Install script for directory: /storage/emulated/0/AndroidIDEProjects/BashTerminal/app/src/main/c
+# Install script for directory: /storage/emulated/0/AndroidIDEProjects/Android-Bash-Terminal/app/src/main/c
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/storage/emulated/0/AndroidIDEProjects/BashTerminal/app/.cxx/Debug/28152230/x86_64/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/storage/emulated/0/AndroidIDEProjects/Android-Bash-Terminal/app/.cxx/Debug/28152230/x86_64/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

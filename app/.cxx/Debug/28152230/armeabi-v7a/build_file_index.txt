@@ -1,1 +1,1 @@
-/storage/emulated/0/AndroidIDEProjects/BashTerminal/app/src/main/c/CMakeLists.txt
+/storage/emulated/0/AndroidIDEProjects/Android-Bash-Terminal/app/src/main/c/CMakeLists.txt
